@@ -1,4 +1,4 @@
-# **First exam Lectures $ Codes**
+# **First exam Lectures & Codes**
 ---
 
 ## **Lecture 1**
