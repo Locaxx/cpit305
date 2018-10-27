@@ -1,7 +1,7 @@
 ## Welcome to Advanced programming (CPIT305) !
 
 ## **Lectures**
-[link](https://fcit16.github.io/cpit305/FirstExam.md)
+[link](cpit305/FirstExam.md)
 
 **Lecture 1**
 
