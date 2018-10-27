@@ -1,7 +1,7 @@
 ## Welcome to Advanced programming (CPIT305) !
 
 ## **Lectures**
-[link](cpit305/FirstExam.md)
+[link](FirstExam.md)
 
 **Lecture 1**
 
