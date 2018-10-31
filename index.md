@@ -6,3 +6,5 @@
 
 ## [**Second exam**](SecondExam.md)
 
+## [**Slides**](slides.rar)
+
