@@ -8,4 +8,4 @@
 
 ## [**Slides**](slides.rar)
 
-## [**Volume Booster Extension**] (https://chrome.google.com/webstore/detail/volume-booster/ejkiikneibegknkgimmihdpcbcedgmpo)
+## [**Volume Booster Extension**](https://chrome.google.com/webstore/detail/volume-booster/ejkiikneibegknkgimmihdpcbcedgmpo)
