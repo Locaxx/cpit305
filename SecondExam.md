@@ -66,3 +66,9 @@
 [**Lecture 24 Code**]()
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ov8kdvA_zgk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## **Lecture 25**
+
+[**Lecture 25 Code**](https://drive.google.com/drive/folders/1nVBRf0ZQczIXhyedis6t39x2wkQnRjhe?usp=sharing)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mcV3S6a2PCM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
