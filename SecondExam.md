@@ -63,7 +63,7 @@
 
 ## **Lecture 24**
 
-[**Lecture 24 Code**]()
+[**Lecture 24 Code**](https://drive.google.com/drive/folders/1Dtyo8pjw2JqFiYK3vK7YQmyA30PqowjU?usp=sharing)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ov8kdvA_zgk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
